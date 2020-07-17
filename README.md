@@ -5,8 +5,7 @@ Udacity Data Analyst Nanodegree program
 Wrangle and Analyze Data - WeRateDogs twitter account
 
 
- <img src="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/04/WeRateDogs.jpg" width="500">
- <center>Image via Boston Magazine</center>
+
 
 # Project Overview
 ## Introduction
@@ -14,6 +13,9 @@ Wrangle and Analyze Data - WeRateDogs twitter account
 The dataset that I wrangled, analyzed, and visualized is the tweet archive of Twitter user [@dog_rates](https://twitter.com/dog_rates), also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "[they're good dogs Brent](https://knowyourmeme.com/memes/theyre-good-dogs-brent)." WeRateDogs has over 8.7 million followers as of June 15, 2020 and has received international media coverage.
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. 
+
+# <img src="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/04/WeRateDogs.jpg" width="500">
+## <center>Image via Boston Magazine</center>
 
 ## What Software Do I Need?
 
