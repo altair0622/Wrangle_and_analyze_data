@@ -5,6 +5,7 @@ Udacity Data Analyst Nanodegree program
 Wrangle and Analyze Data - WeRateDogs twitter account
 
 
+Image via ![Boston Magazine](http://www.bostonmagazine.com/arts-entertainment/blog/2017/04/18/dog-rates-mit/)
 
 # Project Overview
 ## Introduction
