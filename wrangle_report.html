@@ -13139,23 +13139,24 @@ div#notebook {
 <li>9 data quality issues and 3 tidiness issues were detected, and the issues were cleaned to satisfy the Project Motivation. Each issue was documented in one to a few sentences each.</li>
 </ol>
 <h4 id="Quality">Quality<a class="anchor-link" href="#Quality">&#182;</a></h4><ol>
-<li>tw_archive: Keep only original ratings</li>
+<li>tw_archive - keep original ratings</li>
 </ol>
 <ul>
 <li>tw_archive: Correct numerators </li>
 <li>tw_archive: Correct denominators</li>
-<li>tw_archive: Merge dogs stages </li>
-<li>image: Drop jpg_url duplicated ones </li>
-<li>image: Delete useless columns </li>
+<li>image: Drop jpg_url duplicated ones</li>
+<li>image: breed predictions </li>
+<li>image and tw_archive: Delete useless columns </li>
+<li>tw_archive: Correct dog name by removing which is not</li>
 <li>tw_json: Keep original tweets only</li>
-<li>tw_archive: Delete useless columns</li>
 </ul>
 <h4 id="Tidiness">Tidiness<a class="anchor-link" href="#Tidiness">&#182;</a></h4><ol>
-<li>Change datatype to merge with the other tables</li>
+<li>tw_archive: remove dataset having multiple dog stages</li>
 </ol>
 <ul>
+<li>tw_archive: Merge dogs stages </li>
+<li>Change datatype for a merge </li>
 <li>Merge tw_archive_clean, image_clean, and tw_json_clean dataframes.</li>
-<li>Compare rating_numerator and rating and keep only the same value.</li>
 </ul>
 <h2 id="Cleaning-Data">Cleaning Data<a class="anchor-link" href="#Cleaning-Data">&#182;</a></h2><ul>
 <li>The define, code, and test steps of the cleaning process were clearly documented.</li>
