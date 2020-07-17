@@ -14,8 +14,8 @@ The dataset that I wrangled, analyzed, and visualized is the tweet archive of Tw
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. 
 
-# <img src="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/04/WeRateDogs.jpg" width="500">
-<center>Image via Boston Magazine</center>
+<img src="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/04/WeRateDogs.jpg" width="500">
+Image via Boston Magazine
 
 ## What Software Do I Need?
 
