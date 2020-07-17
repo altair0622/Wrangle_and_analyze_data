@@ -4,7 +4,7 @@ Udacity Data Analyst Nanodegree program
 
 Wrangle and Analyze Data - WeRateDogs twitter account
 
-Written documents that contain images are exported as PDF files. [Click to preview report](---------------------)
+
 
 # Project Overview
 ## Introduction
