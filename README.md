@@ -54,7 +54,7 @@ Gather each of the three pieces of data as described below in a Jupyter Notebook
 - Perform this cleaning in wrangle_act.ipynb as well
 - The result should be a high quality and tidy master pandas DataFrame
 
-## Storing, Analzing, and Visualizing Data for this projct
+## Storing, Analzing, and Visualizing Data for this project
 - Store the clean DataFrame(s) in a CSV file with the main one named twitter_archive_master.csv 
 - Analyze and visualize the wrangled data in wrangle_act.ipynb Jupyter Notebook. 
 - Produce at least three (3) insights and one (1) visualization
